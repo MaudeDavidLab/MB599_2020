@@ -19,7 +19,7 @@ How many colleges is there at Oregon State University?
 In R programming, which function (without the parenthesis) check for missing data in R?
 
 ## Question 4
-What is the command to check the statuts of a submitted job on the CGRB server. 
+What is the command to check the status of a submitted job on the CGRB server. 
 
 ## Go the email address
 davidlab.science.oregonstate.edu/sites/davidlab.science.oregonstate.edu/files/answer1_answer2_answer3_answer4.pdf
